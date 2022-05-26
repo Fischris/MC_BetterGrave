@@ -1,0 +1,21 @@
+main: dev.fischmann.mc.betterfarming.Main
+name: FischsBetterFarming
+version: 2.0
+author: fischris
+api-version: 1.18
+
+commands:
+  betterfarming: 
+   description: force to force next farming enchantment. false to disable force. 
+   usage: /<command>
+   
+   reload: 
+   description: reload data
+   usage: /<command>
+
+   add:
+   description: add Farmer ench to players mainhand. Use -> 'add <playername>'
+   usage: /<command>
+
+  
+  
